@@ -1,0 +1,37 @@
+﻿Index,Project Name,Project Complexity,Project Start Date,Project Planned End Date,Percentage of Completion,Next Milestone,Success Criteria,Current Challenges,Final Deliverable
+1,Driverless Car Simulation,Medium ,4-Nov,14-Dec,40%,Log Generation ,To create a proper data set,Replay system - working on it,Data set for driverless car machine model training  
+,Driverless Car Data Sets,High ,13-Nov,15-Dec,50%,To identify a video that detects  the objects through rear view mirror,To come up the video ,Unable to get the exact video,SVC file
+,Driverless Car Computer Vision,High ,1-Nov,1-Jan,25%,,,Creating working model using CNTK,Computer vision Model
+,Driverless Car ECU Integration(ROS),High ,1-Nov,1-Jan,25%,To create subscriber and publisher ,If we know the integration part we can move forward,Need to know more on the integration part ,Self driving architecture on ROS Platform 
+,,,,,,,,,
+,,,,,,,,,
+2,Conversational Modelling,High,1-Nov,14-Dec,75%,Retrieval prototype using Tree LSTM,Response with baseline accuracy on a small custom dataset,"Question-Response pairs, runs locally",Responses for statements based on semantic relatedness
+,Information Exchange,High,1-Nov,14-Dec,20%,Knowledge graph ontology,Graph with predefined conversation variables on GRAKN.AI,Identification of optimum variables in conversation,generating dynamic knowledge graph during conversation 
+,,,,,,,,,
+3,Project Management ,High,20-Oct,28-Jan,15%,Design Approval,,,Redesigned Infinity Labs space in Trivandrum
+,Experience Zone Redesign,High,20-Oct,12-Jan,15%,Design Approval,New customer experience zone ,,Redesigned Experience Zone
+,Innovation Garage Redesign,Medium,,,10%,Design Approval,New space for build & making innovative solutions,Designing concept,Redesigned Innovation Garage
+,Partner Garage Redesign,Medium,,,5%,Design Approval,Space to display co-created solutions,Designing concept,Establish Partner Garage
+,Branding,Medium,12-Jan,31-Jan,0,,Awareness about Infinity Labs 2.0,,"N@N, FB@WORK, SCREENSAVERS"
+,,,,,,,,,
+4,Self powered microphone based on TENG,High,1-Nov,1-Mar,40%,Device Modelling Simulation,Simulation result should be successful,Orientation and thickness of material composition,TENG Model
+,,,,,,,,,
+,,,,,,,,,
+5,Quantum Computer,High,1-Nov,1-Mar,20%,To realize quantum measurement,Quantum Computing Hardware,Mathematical Modelling,Quantum Computing Hardware
+,,,,,,,,,
+,,,,,,,,,
+6,QML,High,15-Nov,15-Jan,20%,To implement a quantum classifier,Able to classify a given data set,Limited gates available,A machine learning algorithm implemented using pyquil.
+,,,,,,,,,
+7,Supplychain managemnet system using Blockchain,High,20-Nov,,5%,Prepare the design document,Should be able to backtrack the entire details of the product,,Able to find the authenticity of the product
+,,,,,,,,,
+8,Data Cleaning using Machine Learning,High,15-Jul,14-Dec,70%,white paper and integration,should be able to clean data with high accuracy,Intergration,Data Quality Mangement Tool
+,,,,,,,,,
+9,Smart Cart - IOT Cart,,9-Aug,9-Feb,10%,To implement a prototype,To create an android app for the cart,Use baecons for trilateration,Able to deliver an android app for the device.
+,,,,,,,,,
+10,RPA Boots ,High,27-Nov,1-Jan,5%,Learning C# and .NET,,,An application to automate the timesheet filling process for BOOTS account
+,,,,,,,,,
+11,Abandoned Carts,High,16-Aug,16-Dec,60%,To implement a prototype,Created frontend of an app in ionic,,Able to deliver an an app for tracking abandoned carts
+12,Retrieving StockDetails,High,25-Oct,17-Jan,40%,To retrieve stock details of three companies,,,
+13,Imigration HR Project,Medium,24-Nov,24-Feb,5%,,,,Desktop Application
+14,Hadoop Big data analysis,medium,15-Oct,1-Feb,60%,to set up name node and datanode for hadoop distributed file sysytem analysis,,created sudo mode hdfs sysytem and teste it successfully,able to analysis and compute big data 
+15,anonymous network for secure communication,high,25-Oct,1-Feb,25%,customize a open source router,created a new ip for secure communication,,secure network protocol for blockchain network
